@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @samaaloda
-- 👀 I’m interested in all things code, especially in regards to human bodies
-- 🌱 I’m currently learning software and biomedical engineering !!
-- 💞️ I’m looking to collaborate on any biomedical project that requires software engineering principles
+- 👋 Hi, I’m Sama Al-Oda
+- 👀 I’m interested in all things code, fashion and medicine, but mostly interested in how all these things intersect together.
+- 🌱 I’m currently in my 2nd year studying Software and Biomedical engineering at McMaster University !
+- 💞️ I’m looking to collaborate on any biomedical project with software components or pure software projects
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i speak 4 human languages and 3 computer languages (so far)
+- ⚡ Fun fact: I speak 4 human languages 
 
 <!---
 samaaloda/samaaloda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

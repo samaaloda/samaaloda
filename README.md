@@ -3,7 +3,7 @@
 - 🌱 I’m currently in my 2nd year studying Software and Biomedical engineering at McMaster University!
 - 💞️ I’m looking to collaborate on any biomedical project with software components or pure software projects
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I speak 4 human languages 
+- ⚡ Fun fact: I speak 4 human languages (English, Arabic, Turkish and French) and I'm looking to learn more!
 
 <!---
 samaaloda/samaaloda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
